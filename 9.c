@@ -9,6 +9,6 @@ scanf("%d", &rate);
 printf("enter amount of time\n");
 scanf("%d", &time);
 result = (principle*rate*time)/3;
-
+printf("your simple interest = %d\n", result);
     return 0;
 }
