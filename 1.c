@@ -1,3 +1,4 @@
+// find factorial using a for loop
 #include<stdio.h>
 int main(){
     int i, num;
